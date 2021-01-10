@@ -8,4 +8,5 @@
 📌Telegram https://t.me/codeef
 
 С уважением, Foteh.
+Landing Page (HTML + CSS only) -> Foteh Kamolov
 ![обложка](https://user-images.githubusercontent.com/55693215/104110195-4942c380-52e6-11eb-81e3-bac8a7ecbab6.png)
